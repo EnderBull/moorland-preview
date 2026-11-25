@@ -1,0 +1,1 @@
+import{r as o}from"./index.DLkBFFtG.js";const s="data-intro";function u(){const[n,c]=o.useState(!1);return o.useEffect(()=>{const t=document.documentElement,e=()=>c(t.hasAttribute(s));e();const r=new MutationObserver(e);return r.observe(t,{attributes:!0,attributeFilter:[s]}),()=>r.disconnect()},[]),n}export{s as I,u};
