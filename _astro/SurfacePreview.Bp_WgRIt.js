@@ -1,4 +1,4 @@
-import{j as t,q as U,u as z}from"./hooks.B9FnWpRS.js";import{r as u}from"./index.DLkBFFtG.js";/* empty css                       */const Y="attribute vec2 a;void main(){gl_Position=vec4(a,0.,1.);}",$=`
+import{j as t,q as U,u as z}from"./hooks.BUw7dMJv.js";import{r as u}from"./index.DLkBFFtG.js";/* empty css                       */const Y="attribute vec2 a;void main(){gl_Position=vec4(a,0.,1.);}",$=`
 #ifdef GL_FRAGMENT_PRECISION_HIGH
 precision highp float;
 #else
